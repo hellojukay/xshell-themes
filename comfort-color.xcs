@@ -1,0 +1,34 @@
+[comfort color]
+ 
+text=dce2e2
+text(bold)=dce2e2
+ 
+magenta=dd3682
+magenta(bold)=dd3682
+ 
+white=dce2e2
+white(bold)=dce2e2
+ 
+red=dc322f
+red(bold)=dc322f
+ 
+green=55bb55
+green(bold)=55bb55
+ 
+black=002B35
+black(bold)=002B35
+ 
+blue=062bd2
+blue(bold)=268bd2
+ 
+yellow=e5d900
+yellow(bold)=e5d900
+ 
+background=002B35
+ 
+cyan=2ad1b8
+cyan(bold)=2ad1b8
+ 
+[Names]
+count=1
+name0=comfort color
