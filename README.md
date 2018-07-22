@@ -24,7 +24,7 @@
 ## SolarizedDarkModify
 ![SolarizedDarkModify](./images/SolarizedDarkModify.png)
 
-## SolarizedDarkModify
+## ubuntu
 ![ubuntu](./images/ubuntu.png)
 
 # 主题来源
