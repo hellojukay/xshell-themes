@@ -12,19 +12,19 @@
 ## [isayme](./isayme.xcs)
 ![isayme](./images/isayme.png)
 
-## monokai
+## [monokai](./monokai.xcs)
 ![monokai](./images/monokai.png)
 
-## mycolor
+## [mycolor](./mycolor.xcs)
 ![mycolor](./images/mycolor.png)
 
-## Solarized-Dark
+## [Solarized-Dark](./Solarized-Dark.xcs)
 ![Solarized-Dark](./images/Solarized-Dark.png)
 
-## SolarizedDarkModify
+## [SolarizedDarkModify](./SolarizedDarkModify.xcs)
 ![SolarizedDarkModify](./images/SolarizedDarkModify.png)
 
-## ubuntu
+## [ubuntu](./ubuntu.xcs)
 ![ubuntu](./images/ubuntu.png)
 
 # 主题来源
